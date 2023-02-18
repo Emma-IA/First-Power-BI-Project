@@ -10,3 +10,4 @@ Thank you AlexTheAnalyst for your [tutorial](https://www.youtube.com/watch?v=pix
 ## Glimpse of the visual : 
 
 
+![Alt text](Visual_Data_Professional_Survey_Breakdown1.jpg)
